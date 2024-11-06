@@ -1,4 +1,4 @@
-This repository contains the parity check matrices for the balanced products of cyclic codes. Matrices are saved in [alist format](http://www.inference.org.uk/mackay/codes/alist.html). These correspond to Table 1 and Table 2 of the paper. 
+This repository contains the parity check matrices for the balanced products of cyclic codes, for [this paper on arxiv](https://arxiv.org/abs/2411.03302). Matrices are saved in [alist format](http://www.inference.org.uk/mackay/codes/alist.html). These correspond to Table 1 and Table 2 of the paper. 
 
 ![codetable_params](https://github.com/user-attachments/assets/de53ba36-47cc-44aa-a781-ec6312bad80f)
 
